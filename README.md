@@ -1,5 +1,4 @@
 ## Seb-data-journey
-Report style projects documenting data science skill development
 
 # Demonstration of techniques
 
